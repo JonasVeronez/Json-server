@@ -1,0 +1,25 @@
+{
+  "PeriodicElements": [
+    {
+      "id": 1,
+      "position": "1",
+      "name": "Jonas Veronez",
+      "weight": "78",
+      "symbol": "IHM"
+    },
+    {
+      "id": 2,
+      "position": "2121",
+      "name": "c",
+      "weight": "2",
+      "symbol": "dsdsd"
+    },
+    {
+      "id": 3,
+      "position": "1111",
+      "name": "deu",
+      "weight": "1000",
+      "symbol": "ihm"
+    }
+  ]
+}
